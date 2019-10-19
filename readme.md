@@ -1,6 +1,8 @@
 # MATHEMATICS AND APPLICATIONS GROUP TO COMPUTATION
 
-## This extension project is to integrate the comunity of Ponta Porã and shown the introduction to free software and linux as also to intall one sever to stay as a repository.
+## This extension project is to integrate the comunity of Ponta Porã and shown the introduction to free software and linux as also to install one sever to stay as a repository.
+
+#
 
 This project is oriented by PhD **Wellington Carlos de Jesus**
 
